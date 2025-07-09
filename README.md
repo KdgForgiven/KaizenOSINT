@@ -1,2 +1,3 @@
-# OSINT Challenges React App
-A frontend app to solve OSINT challenges using React and Tailwind CSS.
+# OSINT Challenges created with React App
+
+OSINT Enthusiast creating OSINT challenges for you, because every steps matters "Kaizen" continuous improvement. 
